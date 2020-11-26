@@ -1,6 +1,6 @@
 mysql -u <username> -p <database>;
 show databases;
-use <table>;
+use <database>;
 show tables;
 select * from <table>;
 
